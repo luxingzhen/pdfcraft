@@ -1,5 +1,10 @@
 # PDFCraft
-
+ PDFCraft
+[![Deploy Status](https://img.shields.io/badge/Online-Live%20Demo-brightgreen)](https://pdf.srfwq.top/zh/)
+> 👋 **Live Demo / 在线演示**: [https://pdf.srfwq.top/zh/](https://pdf.srfwq.top/zh/)
+>
+> 这是一个基于 PDFCraft 部署的免费在线 PDF 工具站，无需上传，保护隐私。
+---
 <div align="center">
   <img src="public/images/logo.png" alt="PDFCraft Logo" width="120" height="120" />
   <h1>Professional PDF Tools</h1>
