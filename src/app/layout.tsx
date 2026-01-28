@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   title: 'PDFCraft - Professional PDF Tools',
   description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.',
   verification: {
-    google: '您的Google验证码', // 从 meta tag 内容中复制
-    other: {
+    google: '您的Google验证码'，
+    other：{
       'baidu-site-verification': 'codeva-rItJf2M0ul',
     },
   icons: {
