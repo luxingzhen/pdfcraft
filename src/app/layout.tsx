@@ -1,4 +1,4 @@
-import 输入 { Metadata } from 'next';
+import { Metadata } from 'next';
 import Script from 'next/script';
 import '@/app/globals.css';
 
