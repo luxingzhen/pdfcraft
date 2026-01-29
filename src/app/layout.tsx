@@ -9,6 +9,9 @@ export const metadata: Metadata = {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
     apple: '/favicon.svg',
+    verification: {
+    other: {
+      'baidu-site-verification': ['codeva-rItJf2M0ul'],
   },
 };
 
